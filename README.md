@@ -38,3 +38,16 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 
 
 
+## **Visuals**
+
+To provide a better understanding of the project, here’s a preview of the Tableau dashboard:
+
+![Dashboard Preview](## **Visuals**
+
+To provide a better understanding of the project, here’s a preview of the Tableau dashboard:
+
+![Dashboard Preview](https://github.com/Sarala23-datascience/Project_2/raw/main/newsfeed_analysis.png)
+)
+
+
+

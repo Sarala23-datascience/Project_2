@@ -35,7 +35,6 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 
 4. **Create a Pull Request:**
    - If you created a new branch, navigate to the "Pull requests" tab in your forked repository and click "New pull request." Compare your branch with the `main` branch of the original repository and submit the pull request for review.
-![Newsfeed Analysis]("C:\Users\saral\OneDrive\Desktop\Projects\Project_2\newsfeed_analysis.png")
 
 
 
